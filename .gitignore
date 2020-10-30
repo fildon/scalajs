@@ -1,0 +1,9 @@
+# JavaScript dependencies
+node_modules
+
+# Build output
+target
+#.class
+
+# IDE settings
+.vscode
